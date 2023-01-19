@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @francisjLuluaga
-- 👀 I’m interested web3 applications, communication automation 
-- 🌱 I’m currently learning the basic of programing.
+- 👀 I’m interested in acquiring programing skills to apply into digital strategy, Product marketing within Tech industry, I'm  a curious learner.
+- 🌱 I’m currently learning the basics about PHP, JavaScript, HTML, CSS frameworks, Github & Git, & PostMan. 
 - 💞️ I’m looking to collaborate where I can add some value. I'm a strategist, Digital Marketer and curious learner.
-- 📫 How to reach me: fran.luluaga@gmail.com
+- 📫 How to reach me: francisco.luluaga@gmail.com
 
 <!---
 francisluluaga/francisluluaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
